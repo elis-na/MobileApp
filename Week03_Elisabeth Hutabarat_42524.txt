@@ -1,0 +1,9 @@
+Latihan, Tugas, dan Eksperimen:
+
+2. Lakukan pengujian terhadap app anda dengan scenario beberapa penambahan dan pemilihan
+   beberapa item pada daftar kata di recyclerView. Beri catatan dan kesimpulan dari hasil pengujian app
+   anda dan submit ke eLearning portal.
+   Kesimpulan :
+   Dari hasil pengujian App, app dapat discroll dengan baik ketika diklik maka akan muncul kalimat 
+   "sudah pernah diklik". Untuk penambahan list dengan mengklik '+' maka list akan bertambah
+   dilist yang paling bawah.
