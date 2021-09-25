@@ -1,0 +1,10 @@
+Kesimpulan untuk hasil pengujian app:
+- Property animation
+  dengan menggunakan animasi properti dapat menganimasikan
+  banyak hal seperti warna, ukuran, posisi dan hal lainnya
+- Drawable animation
+  drawable animation membuat animasi dengan urutan gambar
+  berbeda lalu diputar secara berurutan seperti rol film.
+- Physics-based Animation
+  Physics-based Animation membuat animasi dengan menggunakan
+  hukum fisika.
