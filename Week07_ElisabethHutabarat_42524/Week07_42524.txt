@@ -1,0 +1,4 @@
+Kesimpulan :
+ - Dengan kode yang telah dibuat menggunakan App Android
+   dapat menanmpilkan dan memutar video, dan juga dapat menggunakan
+   kamera pada perangkat untuk mengambil gambar dan video.
