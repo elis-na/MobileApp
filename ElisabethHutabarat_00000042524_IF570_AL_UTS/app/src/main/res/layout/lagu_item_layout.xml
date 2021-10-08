@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_marginTop="5dp"
+    android:layout_height="100dp">
+
+    <ImageView
+        android:id="@+id/kotakLagu"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/icon"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="vertical"
+        android:background="@drawable/login">
+
+        <TextView
+            android:id="@+id/tvJudul"
+            android:layout_width="match_parent"
+            android:layout_marginTop="16dp"
+            android:layout_height="25dp"
+            android:text="Judul"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"/>
+
+        <TextView
+            android:id="@+id/tvPenyanyi"
+            android:layout_width="match_parent"
+            android:layout_marginTop="10dp"
+            android:layout_height="25dp"
+            android:text="Penyanyi"/>
+
+    </LinearLayout>
+</LinearLayout>

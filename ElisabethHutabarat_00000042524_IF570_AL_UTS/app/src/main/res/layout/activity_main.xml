@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#CEE5D0"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SFX Library and Previewer"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:textColor="#5E454B"
+        android:gravity="center"></TextView>
+
+    <ImageView
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:src="@drawable/icon"
+        android:layout_gravity="center"
+        android:layout_marginTop="10pt"></ImageView>
+
+    <Button
+        android:id="@+id/btnprofile"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="15pt"
+        android:background="@drawable/button"
+        android:text="Profile"
+        android:textSize="10dp"></Button>
+
+    <Button
+        android:id="@+id/btnlibrary"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="15pt"
+        android:background="@drawable/button"
+        android:text="library"
+        android:textSize="10dp"></Button>
+
+</LinearLayout>
