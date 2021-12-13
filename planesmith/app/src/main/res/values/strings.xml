@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Planesmith</string>
+    <string name="character">Characters</string>
+    <string name="world">World</string>
+    <string name="story">Story</string>
+    <string name="encyclopedia">Encyclopedia</string>
+
+    //CRUD Buttons
+    <string name="add">Add New</string>
+    <string name="update">Update</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+
+    //Strings for Character
+    <string name="character_name">Name</string>
+    <string name="character_age">Age</string>
+    <string name="character_height">Height</string>
+    <string name="character_weight">Weight</string>
+    <string name="character_gender">Gender</string>
+    <string name="character_group">Affiliation</string>
+    <string name="character_details">Details</string>
+
+    //Strings for World
+    <string name="world_name">Topic</string>
+    <string name="world_details">Details</string>
+
+    //Strings for Story
+    <string name="chapter_name">Chapter Name</string>
+    <string name="chapter_content">Chapter Content</string>
+</resources>
